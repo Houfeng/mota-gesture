@@ -1,3 +1,10 @@
+<br/>
+<br/>
+
+**此项目已归档，如果有相关需要，请使用 react-finger : [https://github.com/Houfeng/react-finger](https://github.com/Houfeng/react-finger)**
+
+<br/>
+
 # Mota Gesture
 
 Mota Gesture 是基于 Mota 同时兼容 PC & Mobile 的事件扩展，让基于 React + Mota 的移动应用
